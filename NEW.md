@@ -1,2 +1,0 @@
-New file
-new string
